@@ -1,0 +1,27 @@
+# The Ghana Card Authentication Interface
+
+This document details the components, functionality, and user interaction flows for the sign-in page. This page serves as the gateway for existing users to access the system.
+
+![Sign In Page|2000X1238](/sign-in-page.webp)
+
+## Title
+**"Welcome Back"**: A prominent heading at the top of the content area, designed to greet returning users and set a welcoming tone.
+
+## Core Sign-In Options
+The page offers two primary methods for user authentication:
+
+### Sign In Using Tax Identification Number (TIN)
+Clicking this button switches the authentication flow to one specifically designed for TIN-based login. This involves an input field for the TIN
+This option caters to non-Ghanaian users who have registered and are identified primarily by their Tax Identification Number within the system.
+
+### Sign In Using Ghana Card
+- Input Field Label: "Ghana Card Number (eg. GHA-123456789-0) *"
+ 	- Purpose: Clearly instructs the user on the type of information required and provides an example format for guidance.
+	- Required field: Asterisk (*), Indicates that this field is mandatory for proceeding with this sign-in method.
+	- Placeholder Text: "XXXX-XXXXXXXXX-X"
+	- Purpose: Provides a visual cue of the expected format for the Ghana Card Number, assisting users in correctly entering their information.
+	- Input Type: A text field, with built-in formatting or validation to enforce the Ghana Card Number structure.
+	- Validation: Client-side and server-side validation ensures the entered Ghana Card Number is valid and conforms to the specified format.
+
+Sign In Button:
+Upon clicking, this button initiates the authentication process using the entered Ghana Card Number. This would typically involve sending the entered number to the server for verification against registered user accounts. Further steps (e.g., password prompt, OTP verification) would likely follow if the number is valid and recognized.
