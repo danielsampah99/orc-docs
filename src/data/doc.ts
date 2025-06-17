@@ -76,4 +76,24 @@ export const docs: DocGroup[] = [
 			},
 		],
 	},
+	{
+		id: "name-search-reservation-and-reserved-names",
+		title: "Name Search, Name Reservation and Reserved Names",
+		description:
+			"Learn how to search for a business name and reserve it. This section provides detailed information on the name search process and important guidelines.",
+		docs: [
+			{
+				id: "name-search-and-reservation",
+				title: "Name Search and Reservation",
+				description: "Learn how to search for a business name and reserve it.",
+				pageImage: null,
+			},
+			{
+				id: "reserved-names",
+				title: "Reserved Names",
+				description: "Learn about reserved names.",
+				pageImage: null,
+			},
+		],
+	},
 ];
