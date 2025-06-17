@@ -77,30 +77,6 @@ export const docs: DocGroup[] = [
 		],
 	},
 	{
-		id: "name-search-reservation",
-		title: "Name Search & Reservation",
-		description:
-			"Search for the availablity of a business name. Available business name can be reserved for a period at a fee.",
-		docs: [
-			{
-				id: "name-search",
-				title: "Name Search",
-				description: "Description",
-				pageImage: null,
-			},
-			{
-				id: "name-reservation",
-				title: "Name Reservation",
-				description: "Description",
-				pageImage: {
-					url: "/sign-in-page.webp",
-					alt: "sign in img"
-				}	
-			}
-
-		]
-	},
-	{
 		id: "partnership",
 		title: "Partnership",
 		description:
