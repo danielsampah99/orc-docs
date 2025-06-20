@@ -155,16 +155,19 @@ export const docs: DocGroup[] = [
 				id: "priv-company-guarantee-registration-form-4",
 				title: "Subscribers",
 				description: "The Subscribers section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
 			},
 			{
 				id: "priv-company-guarantee-registration-form-5",
 				title: "Beneficial Owner (BO)",
 				description: "The Beneficial Owners section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
 			},
 			{
 				id: "priv-company-guarantee-registration-final",
 				title: "Review and Submit",
 				description: "The Review and Submit section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
 			},
 			
 		]	
