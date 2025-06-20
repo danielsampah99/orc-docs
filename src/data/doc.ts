@@ -115,5 +115,58 @@ export const docs: DocGroup[] = [
 				pageImage: null,
 			},
 		]
-	}
+	},
+	{
+		id: "private-company-limited-by-guarantee",
+		title: "Private Company Limited by Guarantee",
+		description: "A private company limited by guarantee is a type of company that is not owned by shareholders, but by members who have made a promise to contribute to the company's assets if it goes bankrupt. This type of company is often used for non-profit organizations or charitable trusts.",
+		docs: [
+			{
+				id: "priv-company-guarantee-start-application",
+				title: "Start Application",
+				description: "The Start application button allows users to begin the process of registering a private company limited by guarantee. Clicking the button will guide applicants through submitting the necessary information and documents required for registration, based on the private company limited by guarantee agreement.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-guarantee-name-check",
+				title: "Name Check",
+				description: "The Name Check section allows users to search for the availability of a company name. This section provides detailed information on the name search process and important guidelines.",
+				pageImage: null,
+			}, 
+			{
+				id: "priv-company-guarantee-registration-form-1",
+			    title: "Company Details",
+				description: "The Company Details section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-guarantee-registration-form-2",
+				title: "Executive Council Members / Directors",
+				description: "The Executive Council Members / Directors section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-guarantee-registration-form-3",
+				title: "Particulars of Company Secretary",
+				description: "The Particulars of Company Secretary section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-guarantee-registration-form-4",
+				title: "Subscribers",
+				description: "The Subscribers section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+			},
+			{
+				id: "priv-company-guarantee-registration-form-5",
+				title: "Beneficial Owner (BO)",
+				description: "The Beneficial Owners section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+			},
+			{
+				id: "priv-company-guarantee-registration-final",
+				title: "Review and Submit",
+				description: "The Review and Submit section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+			},
+			
+		]	
+	},
 ];
