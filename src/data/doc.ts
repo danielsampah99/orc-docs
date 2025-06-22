@@ -115,6 +115,277 @@ export const docs: DocGroup[] = [
 				pageImage: null,
 			},
 		]
+	},{
+		id: "private-Company-Limited-by-Shares",
+		title: "Private Company Limited by Shares",
+		description:
+			"A private company limited by shares is a body corporate formed by one and not more than fifty shareholders whose liabilities are limited to the amount of shares unpaid.",
+		docs: [
+			{
+				id: "priv-company-limited-shares-start-application",
+				title: "Start Application",
+				description: "The Start application button allows users to begin the process of registering a partnership business. Clicking the button will guide applicants through submitting the necessary information and documents required for registration, based on the partnership agreement.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-name-check",
+				title: "Name Check",
+				description: "The Name Check section allows users to search for the availability of a company name. This section provides detailed information on the name search process and important guidelines.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form1",
+				title: "Company Details",
+				description: "This page collects all primary company information.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form2",
+				title: "Company Directors",
+				description: "This page collects information about the Directors of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form3",
+				title: "Particulars of Company Secretary",
+				description: "This page collects information about the Secretary of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form4",
+				title: "Details of Shares and Stated Capital",
+				description: "This page collects information about the shares of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form5",
+				title: "Subscribers",
+				description: "This page collects information about the Subscribers of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form6",
+				title: "Beneficial Owner (BO)",
+				description: "This page collects information about the Beneficial Owner(BO) of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form7",
+				title: "Attachment",
+				description: "This page collects  any additonal information in the form of documents about the compay",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form8",
+				title: "Review and Submit",
+				description: "The Review and Submit section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+		]
+	},
+	{
+		id: "private-Company-Unlimited-by-Shares",
+		title: "Private Company Unimited by Shares",
+		description:
+			"A private company unlimited by shares is a body formed by one to fifty people whose liability is unlimited to the amount of shares unpaid. An unlimited liability company is a company which does not have a limit on the liability of its members.",
+		docs: [
+			{
+				id: "priv-company-unlimited-shares-start-application",
+				title: "Start Application",
+				description: "The Start application button allows users to begin the process of registering a partnership business. Clicking the button will guide applicants through submitting the necessary information and documents required for registration, based on the partnership agreement.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-name-check",
+				title: "Name Check",
+				description: "The Name Check section allows users to search for the availability of a company name. This section provides detailed information on the name search process and important guidelines.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form1",
+				title: "Company Details",
+				description: "This page collects all primary company information.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form2",
+				title: "Company Directors",
+				description: "This page collects information about the Directors of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form3",
+				title: "Particulars of Company Secretary",
+				description: "This page collects information about the Secretary of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form4",
+				title: "Details of Shares and Stated Capital",
+				description: "This page collects information about the shares of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form5",
+				title: "Subscribers",
+				description: "This page collects information about the Subscribers of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form6",
+				title: "Beneficial Owner (BO)",
+				description: "This page collects information about the Beneficial Owner(BO) of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form7",
+				title: "Attachment",
+				description: "This page collects  any additonal information in the form of documents about the compay",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form8",
+				title: "Review and Submit",
+				description: "The Review and Submit section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+		]
+	},
+	{
+		id: "public-Company-limited-by-Shares",
+		title: "Public Company limited by Shares",
+		description:
+			"A public company limited by shares is a body corporate formed without any restriction on the number of members per its constitution and its members liability is limited to the amount of unpaid shares.",
+		docs: [
+			{
+				id: "pub-company-limited-shares-start-application",
+				title: "Start Application",
+				description: "The Start application button allows users to begin the process of registering a partnership business. Clicking the button will guide applicants through submitting the necessary information and documents required for registration, based on the partnership agreement.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-name-check",
+				title: "Name Check",
+				description: "The Name Check section allows users to search for the availability of a company name. This section provides detailed information on the name search process and important guidelines.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form1",
+				title: "Company Details",
+				description: "This page collects all primary company information.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form2",
+				title: "Company Directors",
+				description: "This page collects information about the Directors of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form3",
+				title: "Particulars of Company Secretary",
+				description: "This page collects information about the Secretary of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form4",
+				title: "Details of Shares and Stated Capital",
+				description: "This page collects information about the shares of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form5",
+				title: "Subscribers",
+				description: "This page collects information about the Subscribers of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form6",
+				title: "Beneficial Owner (BO)",
+				description: "This page collects information about the Beneficial Owner(BO) of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form7",
+				title: "Attachment",
+				description: "This page collects  any additonal information in the form of documents about the compay",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form8",
+				title: "Review and Submit",
+				description: "The Review and Submit section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+		]
+	},
+	{
+		id: "public-Company-Unlimited-by-Shares",
+		title: "Public Company Unimited by Shares",
+		description:
+			"A public company unlimited by shares is a body corporate formed without any restriction on the number of members per its constitution and its liabilities are unlimited.",
+		docs: [
+			{
+				id: "pub-company-unlimited-shares-start-application",
+				title: "Start Application",
+				description: "The Start application button allows users to begin the process of registering a partnership business. Clicking the button will guide applicants through submitting the necessary information and documents required for registration, based on the partnership agreement.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-name-check",
+				title: "Name Check",
+				description: "The Name Check section allows users to search for the availability of a company name. This section provides detailed information on the name search process and important guidelines.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form1",
+				title: "Company Details",
+				description: "This page collects all primary company information.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form2",
+				title: "Company Directors",
+				description: "This page collects information about the Directors of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form3",
+				title: "Particulars of Company Secretary",
+				description: "This page collects information about the Secretary of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form4",
+				title: "Details of Shares and Stated Capital",
+				description: "This page collects information about the shares of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form5",
+				title: "Subscribers",
+				description: "This page collects information about the Subscribers of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form6",
+				title: "Beneficial Owner (BO)",
+				description: "This page collects information about the Beneficial Owner(BO) of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form7",
+				title: "Attachment",
+				description: "This page collects  any additonal information in the form of documents about the compay",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form8",
+				title: "Review and Submit",
+				description: "The Review and Submit section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+		]
 	},
 	{
 		id: "private-company-limited-by-guarantee",
