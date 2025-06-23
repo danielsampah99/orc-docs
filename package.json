@@ -19,7 +19,7 @@
     "@shikijs/colorized-brackets": "^3.6.0",
     "clsx": "^2.1.1",
     "geist": "^1.4.2",
-    "next": "15.3.3",
+    "next": "^15.3.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "shiki": "^3.6.0",
@@ -28,6 +28,7 @@
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
     "@tailwindcss/postcss": "^4",
+    "@types/mdx": "^2.0.13",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
