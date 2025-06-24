@@ -18,7 +18,7 @@ export const Navbar = ({ children, ...props }: ComponentProps<"div">) => {
 	return (
 		<div
 			className={cn(
-				"sticky top-0 z-10 bg-white/90 backdrop-blur-sm dark:bg-gray-950/90",
+				"sticky top-0 z-10 bg-white/90 backdrop-blur-sm",
 				"flex items-center justify-between gap-x-8 px-4 py-4 sm:px-6",
 			)}
 			{...props}
@@ -44,7 +44,7 @@ function MobileNavigation({
 		>
 			<DialogBackdrop className="fixed inset-0 bg-gray-950/25" />
 			<div className="fixed inset-0 flex justify-end pl-11">
-				<DialogPanel className="w-full max-w-2xs bg-white px-4 py-5 ring ring-gray-950/10 sm:px-6 dark:bg-gray-950 dark:ring-white/10">
+				<DialogPanel className="w-full max-w-2xs bg-white px-4 py-5 ring ring-gray-950/10 sm:px-6">
 					<div className="flex justify-end">
 						<CloseButton
 							as={IconButton}
@@ -60,7 +60,7 @@ function MobileNavigation({
 									as={Link}
 									key={href}
 									href={href}
-									className="block rounded-md px-4 py-1.5 text-lg/7 font-medium tracking-tight text-gray-950 hover:bg-gray-950/5 dark:text-white dark:hover:bg-white/5"
+									className="block rounded-md px-4 py-1.5 text-lg/7 font-medium tracking-tight text-gray-950 hover:bg-gray-950/5"
 								>
 									{title}
 								</CloseButton>
@@ -71,7 +71,7 @@ function MobileNavigation({
 								as={Link}
 								href={process.env.APP_URL ?? "https://web.dev.apps.orc.gov.gh/"}
 								target="_blank"
-								className="rounded-md gap-x-1.5 items-center justify-start inline-flex px-4 py-1 text-sm/7 font-semibold text-gray-950 hover:bg-gray-950/5 dark:text-white dark:hover:bg-white/5"
+								className="rounded-md gap-x-1.5 items-center justify-start inline-flex px-4 py-1 text-sm/7 font-semibold text-gray-950 hover:bg-gray-950/5"
 							>
 								Go To App
 							</CloseButton>

@@ -127,6 +127,26 @@ export const docs: DocGroup[] = [
 			},
 		]
 	},
+  	{
+		id: "corporate-business-name",
+		title: "Corporate Business Name",
+		description:
+			"A company may carry on business under a business name which does not consist of its corporate name. This is called a corporate business name . A stamp of the parent company is required and should be signed by one of its existing directors or secretary.",
+		docs: [
+			{
+				id: "corporate-business-name-instruction",
+				title: "Start Application",
+				description: "The Start application button allows users to begin the process of registering a Corporate Business Name. Clicking the button will guide applicants through submitting the necessary information and documents required for registration, based on the corporate business agreement.",
+				pageImage: null,
+			},
+			{
+				id: "corporate-business-name-registration-instruction",
+				title: "Registration Instructions",
+				description: "The Registration Instructions section provides applicants with clear, step-by-step guidance on how to successfully register a corporate business name. It outlines the key processes involved, starting from conducting a name availability search to the final incorporation stage. This section also highlights the applicable processing fee, required documents, and where to access partnership information post-registration. Additionally, it reminds applicants of the mandatory annual renewal of the partnership name. By following these instructions carefully, users can ensure a smooth and compliant registration experience.",
+				pageImage: null,
+			},
+		]
+	},
 	{
 		id: "partnership",
 		title: "Partnership",
@@ -418,7 +438,7 @@ export const docs: DocGroup[] = [
 			},
 		]
 	},
-	{
+  {
 		id: "private-company-limited-by-guarantee",
 		title: "Private Company Limited by Guarantee",
 		description: "A private company limited by guarantee is a type of company that is not owned by shareholders, but by members who have made a promise to contribute to the company's assets if it goes bankrupt. This type of company is often used for non-profit organizations or charitable trusts.",
@@ -636,3 +656,4 @@ export const docs: DocGroup[] = [
 	}
 
 ];
+
