@@ -97,6 +97,37 @@ export const docs: DocGroup[] = [
 		],
 	},
 	{
+		id: "business-name-registration",
+		title: "Business Name Registration",
+		description: "Learn how to register a business name.",
+		docs: [
+			{
+				id: "business-name-start-application",
+				title: "Start Application",
+				description: "The Start application button allows users to begin the process of registering a business name. Clicking the button will guide applicants through submitting the necessary information and documents required for registration, based on the business name registration agreement.",
+				pageImage: null,
+			},
+			{
+				id: "business-name-check",
+				title: "Name Check",
+				description: "The Name Check section allows users to search for the availability of a business name. This section provides detailed information on the name search process and important guidelines.",
+				pageImage: null,
+			},
+			{
+				id: "business-name-form",
+				title: "Business Name Registration Form",
+				description: "The Business Name Registration Form section provides applicants with a comprehensive form to fill out and submit for the registration of a business name. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "business-name-final",
+				title: "Review and Submit",
+				description: "The Review and Submit section provides applicants with a comprehensive form to fill out and submit for the registration of a business name. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+		]
+	},
+	{
 		id: "partnership",
 		title: "Partnership",
 		description:
