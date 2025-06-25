@@ -232,6 +232,12 @@ export const docs: DocGroup[] = [
 				description: "The Review and Submit section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
 				pageImage: null,
 			},
+			{
+				id: "priv-company-limited-shares-registration-form9",
+				title: "Payment",
+				description: "This is the final process of registration. It allows users to make the necessary payment for the registration of a private company limited by shares. The payment process is secure and ensures that all fees are processed correctly.",
+				pageImage: null,
+			},
 		]
 	},
 	{
@@ -298,6 +304,12 @@ export const docs: DocGroup[] = [
 				id: "priv-company-limited-shares-registration-form8",
 				title: "Review and Submit",
 				description: "The Review and Submit section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form9",
+				title: "Payment",
+				description: "This is the final process of registration. It allows users to make the necessary payment for the registration of a private company limited by shares. The payment process is secure and ensures that all fees are processed correctly.",
 				pageImage: null,
 			},
 		]
@@ -368,6 +380,12 @@ export const docs: DocGroup[] = [
 				description: "The Review and Submit section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
 				pageImage: null,
 			},
+			{
+				id: "priv-company-limited-shares-registration-form9",
+				title: "Payment",
+				description: "This is the final process of registration. It allows users to make the necessary payment for the registration of a private company limited by shares. The payment process is secure and ensures that all fees are processed correctly.",
+				pageImage: null,
+			},
 		]
 	},
 	{
@@ -434,6 +452,12 @@ export const docs: DocGroup[] = [
 				id: "priv-company-limited-shares-registration-form8",
 				title: "Review and Submit",
 				description: "The Review and Submit section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form9",
+				title: "Payment",
+				description: "This is the final process of registration. It allows users to make the necessary payment for the registration of a private company limited by shares. The payment process is secure and ensures that all fees are processed correctly.",
 				pageImage: null,
 			},
 		]
