@@ -283,6 +283,79 @@ export const docs: DocGroup[] = [
 				pageImage: null,
 			}
 		]
-	}
+	},
+	{
+		id: "change-in-particulars",
+		title: "Change in Particulars",
+		description: "A user can make changes to the particulars of a registered entity.",
+		docs: [
+			{
+				id: "change-in-particulars-business-name",
+				title: "Business Name",
+				description: "The Instructions section provides users with a comprehensive guide on how to make changes to the particulars of a registered business name. This section includes all the necessary steps and information to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "change-in-particulars-corporate-business-name",
+				title: "Corporate Business Name",
+				description: "The Instructions section provides users with a comprehensive guide on how to make changes to the particulars of a registered corporate business name. This section includes all the necessary steps and information to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{ 
+				id: "change-in-particulars-partnership",
+				title: "Partnership",
+				description: "The Instructions section provides users with a comprehensive guide on how to make changes to the particulars of a registered partnership. This section includes all the necessary steps and information to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "change-in-particulars-private-company-limited-by-shares",
+				title: "Private Company Limited by Shares",
+				description: "The Instructions section provides users with a comprehensive guide on how to make changes to the particulars of a registered private company limited by shares. This section includes all the necessary steps and information to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "change-in-particulars-private-company-unlimited-by-shares",
+				title: "Private Company Unlimited by Shares",
+				description: "The Instructions section provides users with a comprehensive guide on how to make changes to the particulars of a registered private company unlimited by shares. This section includes all the necessary steps and information to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "change-in-particulars-public-company-limited-by-shares",
+				title: "Public Company Limited by Shares",
+				description: "The Instructions section provides users with a comprehensive guide on how to make changes to the particulars of a registered public company limited by shares. This section includes all the necessary steps and information to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "change-in-particulars-public-company-unlimited-by-shares",
+				title: "Public Company Unlimited by Shares",
+				description: "The Instructions section provides users with a comprehensive guide on how to make changes to the particulars of a registered public company unlimited by shares. This section includes all the necessary steps and information to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "change-in-particulars-private-company-limited-by-guarantee",
+				title: "Private Company Limited by Guarantee",
+				description: "The Instructions section provides users with a comprehensive guide on how to make changes to the particulars of a registered private company limited by guarantee. This section includes all the necessary steps and information to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "change-in-particulars-public-company-limited-by-guarantee",
+				title: "Public Company Limited by Guarantee",
+				description: "The Instructions section provides users with a comprehensive guide on how to make changes to the particulars of a registered public company limited by guarantee. This section includes all the necessary steps and information to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "change-in-particulars-external-company",
+				title: "External Company",
+				description: "The Instructions section provides users with a comprehensive guide on how to make changes to the particulars of a registered external company. This section includes all the necessary steps and information to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "change-in-particulars-professional-body",
+				title: "Professional Body",
+				description: "The Instructions section provides users with a comprehensive guide on how to make changes to the particulars of a registered professional body. This section includes all the necessary steps and information to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			}
+		]
+	},
 ];
 
