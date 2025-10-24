@@ -130,6 +130,13 @@ export const docs: DocGroup[] = [
 					"The next page allows you to review all the information you have provided before final submission.",
 				pageImage: null,
 			},
+			{
+				id: "professional-bodies-payment",
+				title: "Payment Process",
+				description:
+					"The next page provides a step-by-step guide on how users can complete payments securely within the application.",
+				pageImage: null,
+			},
 
 			
 		],
