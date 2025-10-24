@@ -31,15 +31,6 @@ Selecting the "Name Search" option from the left panel directs the user to the d
 
 Upon entering a business name and clicking the "Search" button located on the right side of the input field, the system responds in one of two ways:
 
-- **If the name is available:**
-    - A success message is displayed, containing:
-        - A checkmark icon
-        - The submitted business name
-        - The message: "Your search name is available for use. How would you like to proceed?"
-        - A "Reserve This Name" button
-
-![Name Search and Reservation|2000x1238](/name-search3.png)
-
 - **If the name is unavailable:**
     - An error message is shown, including:
         - A "Not found" icon
@@ -47,11 +38,25 @@ Upon entering a business name and clicking the "Search" button located on the ri
 
 ![Name Search and Reservation|2000x1238](/name-search4.png)
 
+- **If the name is available:**
+    - A success message is displayed, containing:
+        - A checkmark icon
+        - The submitted business name
+        - The message: "Your search name is available for use. How would you like to proceed?"
+        - A **Reserve This Name** drop down to select the business entity type you want to reserve the name under. 
+        - A **Register a Business Entity Using This Name** drop down to select the business entity type you want to register the name under. 
+
+![Name Search and Reservation|2000x1238](/name-search3.png)
+
+- Select the prefered business entity type under either dropdown menu to proceed with name reservation or business registration.
+
+![Name Search and Reservation|2000x1238](/name-search33.png)
+
 ## Name Reservation
 
-Once a business name has been confirmed as available, clicking the "Reserve This Name" button opens a form titled "**New Business Name**". This form collects the necessary details required to complete the name reservation process.
+Clicking the **Reserve** button after selecting the prefered business entity type under **Reserve This Name** opens a form with a title of the chosen business name. This form collects the necessary details required to complete the name reservation process.
 
-![New Business Name Reservation Form|2000x1140](/name-search5.png)
+![Name Search and Reservation|2000x1238](/name-search55.png)
 
 ### Instructions
 
@@ -71,10 +76,10 @@ Fields marked with an asterisk (*) are mandatory and must be completed to procee
   - Input Type: Text field  
   - Purpose: Automatically fills out with accepted business name.
 
-- Input Field Label: "Entity Type *"  
+- Input Field Label: "Entity Type *" 
   - Required: Yes (indicated by *)  
   - Input Type: Dropdown  
-  - Purpose: Select the legal structure of user’s business (e.g. Privatie Company Limited by Shares).
+  - Purpose: Select the legal structure of user’s business **(Preselected)**.
 
 - Input Field Label: "Which of the following will your company name end with? *"  
   - Options become available for user to choose from after filling out "Entity Type" field.
@@ -129,6 +134,10 @@ A confirmation "Payment Successful" message is then displayed along with a "Cont
 
 ![Name Search and Reservation|2000x1238](/name-search10.png)
 
-Clicking the "Continue" button redirects the user to a page displaying all business names they have reserved and their details.
+Clicking the "Continue" button redirects the user to a page displaying all business names they have reserved and their details. Currently reserved name has a status of **Pending Approval**.
 
 ![Name Search and Reservation|2000x1238](/name-search11.png)
+
+After approval is completed the status updates to **Active**.
+
+![Name Search and Reservation|2000x1238](/name-search12.png)
