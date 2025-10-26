@@ -744,4 +744,17 @@ export const docs: DocGroup[] = [
 			}
 		]
 	},
+	  {
+		id: "mergers",
+		title: "Mergers",
+		description: "This guide outlines the step-by-step process for initiating and completing a company merger through the ORC.GOV portal. It is intended for users authorized to manage corporate entity transitions, including mergers by absorption, formation, or short form.",
+		docs: [
+			{
+				id: "company-merger",
+				title: "Company Merger",
+				description: "The Start Merger Application section allows users to initiate the merger process for their company. This section provides a clear and straightforward way to begin the application, guiding users through the necessary steps to submit their merger request.",
+				pageImage: null,
+			}
+			]
+		}
  ]
