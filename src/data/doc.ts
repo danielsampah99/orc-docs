@@ -167,7 +167,105 @@ export const docs: DocGroup[] = [
 			},
 		]
 	},
-  {
+	{
+		id: "professional-bodies",
+		title: "Professional Bodies",
+		description:"Learn how to properly register a professional Body",
+		docs: [
+			{
+				id: "professional-bodies-application",
+				title: "Professional Bodies Application",
+				description:
+					"Learn the basics of our platform and how to begin your company registration journey. This guide covers initial requirements and provides an overview of the registration process.",
+				pageImage: null,
+			},
+			{
+				id: "registration-instruction-professional-bodies",
+				title: "Registration Instructions",
+				description:
+					"A step-by-step guide to help you complete your application process accurately and efficiently.",
+				pageImage: null,
+			},
+			{
+				id: "prerequisite-documents",
+				title: "Prerequisite Documents",
+				description:
+					"A list of all the necessary documents needed to complete your application.",
+				pageImage: null,
+			},
+			{
+				id: "service-type",
+				title: "Service Type",
+				description:
+					" where you can select a suitable payment option for your application processing.",
+				pageImage: null,
+			},
+			{
+				id: "name-availability",
+				title: "Name Availability",
+				description:
+					"The name availability page, where the system will check if the name you intend to use is unique, compliant, and available for registration.",
+				pageImage: null,
+			},
+			{
+				id: "registration-process",
+				title: "Registrarion Process",
+				description:
+					"Next, you will be directed to the Registration Forms page, where you will complete the official registration details required to submit your application.",
+				pageImage: null,
+			},
+			{
+				id: "professional-bodies-review",
+				title: "Review",
+				description:
+					"The next page allows you to review all the information you have provided before final submission.",
+				pageImage: null,
+			},
+			{
+				id: "professional-bodies-payment",
+				title: "Payment Process",
+				description:
+					"The next page provides a step-by-step guide on how users can complete payments securely within the application.",
+				pageImage: null,
+			},
+
+			
+		],
+	},
+	{
+		id: "external-company",
+		title: "External Company ",
+		description:
+			"This page provides an introduction to what an external company is, along with a brief video explanation, registration cost options, and a button to begin the application process.",
+		docs: [
+
+			{
+				id: "external-company-application",
+				title: "External Company",
+				description:
+					"This page provides an introduction to what an external company is, along with a brief video explanation, registration cost options",
+				pageImage: null,
+			},
+			{
+				id: "external-company-instructions",
+				title: "Instructions",
+				description:
+					"The next page outlines the step-by-step registration process and lists all the required documents needed to register an external company in Ghana.",
+				pageImage: null,
+			},
+			{
+				id: "external-company-form",
+				title: "External Company Registration",
+				description:
+					"The next page outlines the step-by-step process required to complete the registration of an external company, guiding you through each section of the application.",
+				pageImage: null,
+			},
+
+			
+		]
+			
+	},
+	{
 		id: "private-company-limited-by-guarantee",
 		title: "Private Company Limited by Guarantee",
 		description: "A private company limited by guarantee is a type of company that is not owned by shareholders, but by members who have made a promise to contribute to the company's assets if it goes bankrupt. This type of company is often used for non-profit organizations or charitable trusts.",
@@ -355,6 +453,81 @@ export const docs: DocGroup[] = [
 				description: "The Instructions section provides users with a comprehensive guide on how to make changes to the particulars of a registered professional body. This section includes all the necessary steps and information to ensure a smooth and accurate submission process.",
 				pageImage: null,
 			}
+		]
+	},
+		{
+		id: "filing",
+		title: "Filing",
+		description:
+			"Filing refers to the process of submitting necessary documents and information to the relevant authorities for the purpose of registering a business or company. This section provides detailed instructions on how to properly file your application, including required forms, supporting documents, and submission procedures to ensure compliance with legal and regulatory requirements.",
+		docs: [
+			{
+				id: "filing-business-name",
+				title: "Business Name",
+				description: "The Filing section for a Business Name allows owners to submit updates, statutory documents, and compliance-related information to the Office of the Registrar of Companies. This feature is used to maintain accurate and up-to-date records for a registered Business Name. Through this section, business owners can file changes to their business details, submit required renewals, and provide supporting documents whenever the Registrar requests verification. It ensures that the Business Name remains compliant with legal requirements and that all information on record reflects the current status of the business.",
+				pageImage: null,
+			},
+			{
+				id: "filing-corporate-business-name",
+				title: "Corporate Business Name",
+				description: "The Filing section for a Corporate Business Name enables authorized users to submit statutory updates, compliance documents, and changes related to a registered corporate business name. This feature ensures that all records held by the Registrar remain accurate and up to date. Through this section, corporate entities can file amendments to business information, submit annual or required statutory filings, respond to compliance requests, and provide supporting documentation for verification. It is an essential tool for maintaining regulatory compliance and ensuring that the corporate business name remains in good standing with the Office of the Registrar of Companies.",
+				pageImage: null,
+			},
+			{
+				id: "filing-partnership",
+				title: "Partnership",
+				description: "The Filing section for a Partnership allows partners to submit necessary statutory documents, updates, and compliance-related information to the Office of the Registrar of Companies. This feature is essential for maintaining accurate records of the partnership and ensuring compliance with legal requirements. Through this section, partners can file changes to partnership details, submit required renewals, and provide supporting documents as requested by the Registrar. It helps ensure that the partnership remains in good standing and that all information on record reflects the current status of the business.",
+				pageImage: null,
+			
+			},
+			{
+				id: "filing-private-company-limited-by-shares",
+				title: "Private Company Limited by Shares",
+				description: "The Filing section for a Private Company Limited by Shares allows company representatives to submit necessary statutory documents, updates, and compliance-related information to the Office of the Registrar of Companies. This feature is vital for maintaining accurate records of the private company and ensuring adherence to legal requirements. Through this section, private companies can file changes to company details, submit required annual returns, and provide supporting documents as requested by the Registrar. It helps ensure that the private company remains in good standing and that all information on record reflects the current status of the business.",
+				pageImage: null,
+			},
+			{
+				id: "filing-private-company-unlimited-by-shares",
+				title: "Private Company Unlimited by Shares",
+				description: "The Filing section for a Private Company Unlimited by Shares enables company representatives to submit statutory updates, compliance documents, and changes related to the registered private company. This feature is essential for maintaining accurate records with the Office of the Registrar of Companies. Through this section, private companies can file amendments to company information, submit annual returns, respond to compliance requests, and provide supporting documentation for verification. It ensures that the private company remains compliant with legal requirements and that all information on record reflects the current status of the business.",
+				pageImage: null,
+			},
+			{
+				id: "filing-public-company-limited-by-shares",
+				title: "Public Company Limited by Shares",
+				description: "The Filing section for a Public Company Limited by Shares enables authorized representatives to submit statutory updates, compliance documents, and changes related to the registered public company. This feature is crucial for maintaining accurate records with the Office of the Registrar of Companies. Through this section, public companies can file amendments to company information, submit annual returns, respond to compliance requests, and provide supporting documentation for verification. It ensures that the public company remains compliant with legal requirements and that all information on record reflects the current status of the business.",
+				pageImage: null,
+			},
+			{
+				id: "filing-public-company-unlimited-by-shares",
+				title: "Public Company Unlimited by Shares",
+				description: "	The Filing section for a Public Company Unlimited by Shares allows authorized representatives to submit necessary statutory documents, updates, and compliance-related information to the Office of the Registrar of Companies. This feature is vital for maintaining accurate records of the public company and ensuring adherence to legal requirements. Through this section, public companies can file changes to company details, submit required annual returns, and provide supporting documents as requested by the Registrar. It helps ensure that the public company remains in good standing and that all information on record reflects the current status of the business.",
+				pageImage: null,
+			},
+			{
+				id: "filing-private-company-limited-by-guarantee",
+				title: "Private Company Limited by Guarantee",
+				description: "The Filing section for a Private Company Limited by Guarantee enables company representatives to submit statutory updates, compliance documents, and changes related to the registered private company. This feature is essential for maintaining accurate records with the Office of the Registrar of Companies. Through this section, private companies can file amendments to company information, submit annual returns, respond to compliance requests, and provide supporting documentation for verification. It ensures that the private company remains compliant with legal requirements and that all information on record reflects the current status of the business.",
+				pageImage: null,
+			},
+			{
+				id: "filing-public-company-limited-by-guarantee",
+				title: "Public Company Limited by Guarantee",
+				description: "The Filing section for a Public Company Limited by Guarantee allows authorized representatives to submit necessary statutory documents, updates, and compliance-related information to the Office of the Registrar of Companies. This feature is vital for maintaining accurate records of the public company and ensuring adherence to legal requirements. Through this section, public companies can file changes to company details, submit required annual returns, and provide supporting documents as requested by the Registrar. It helps ensure that the public company remains in good standing and that all information on record reflects the current status of the business.",
+				pageImage: null,
+			},
+			{
+				id: "filing-external-company",
+				title: "External Company",
+				description: "The Filing section for an External Company allows authorized representatives to submit necessary statutory documents, updates, and compliance-related information to the Office of the Registrar of Companies. This feature is vital for maintaining accurate records of the external company and ensuring adherence to legal requirements. Through this section, external companies can file changes to company details, submit required annual returns, and provide supporting documents as requested by the Registrar. It helps ensure that the external company remains in good standing and that all information on record reflects the current status of the business.",
+				pageImage: null,
+			},
+			{
+				id: "filing-professional-body",
+				title: "Professional Body",
+				description: "The Filing section for a Professional Body allows authorized representatives to submit necessary statutory documents, updates, and compliance-related information to the Office of the Registrar of Companies. This feature is vital for maintaining accurate records of the professional body and ensuring adherence to legal requirements. Through this section, professional bodies can file changes to their details, submit required annual returns, and provide supporting documents as requested by the Registrar. It helps ensure that the professional body remains in good standing and that all information on record reflects its current status.",
+				pageImage: null,
+			},
 		]
 	},
 ];
