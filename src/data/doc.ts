@@ -166,6 +166,301 @@ export const docs: DocGroup[] = [
 				pageImage: null,
 			},
 		]
+	},{
+		id: "private-Company-Limited-by-Shares",
+		title: "Private Company Limited by Shares",
+		description:
+			"A private company limited by shares is a body corporate formed by one and not more than fifty shareholders whose liabilities are limited to the amount of shares unpaid.",
+		docs: [
+			{
+				id: "priv-company-limited-shares-start-application",
+				title: "Start Application",
+				description: "The Start application button allows users to begin the process of registering a partnership business. Clicking the button will guide applicants through submitting the necessary information and documents required for registration, based on the partnership agreement.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-name-check",
+				title: "Name Check",
+				description: "The Name Check section allows users to search for the availability of a company name. This section provides detailed information on the name search process and important guidelines.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form1",
+				title: "Company Details",
+				description: "This page collects all primary company information.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form2",
+				title: "Company Directors",
+				description: "This page collects information about the Directors of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form3",
+				title: "Particulars of Company Secretary",
+				description: "This page collects information about the Secretary of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form4",
+				title: "Details of Shares and Stated Capital",
+				description: "This page collects information about the shares of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form5",
+				title: "Subscribers",
+				description: "This page collects information about the Subscribers of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form6",
+				title: "Beneficial Owner (BO)",
+				description: "This page collects information about the Beneficial Owner(BO) of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form7",
+				title: "Attachment",
+				description: "This page collects  any additonal information in the form of documents about the compay",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form8",
+				title: "Review and Submit",
+				description: "The Review and Submit section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form9",
+				title: "Payment",
+				description: "This is the final process of registration. It allows users to make the necessary payment for the registration of a private company limited by shares. The payment process is secure and ensures that all fees are processed correctly.",
+				pageImage: null,
+			},
+		]
+	},
+	{
+		id: "private-Company-Unlimited-by-Shares",
+		title: "Private Company Unimited by Shares",
+		description:
+			"A private company unlimited by shares is a body formed by one to fifty people whose liability is unlimited to the amount of shares unpaid. An unlimited liability company is a company which does not have a limit on the liability of its members.",
+		docs: [
+			{
+				id: "priv-company-unlimited-shares-start-application",
+				title: "Start Application",
+				description: "The Start application button allows users to begin the process of registering a partnership business. Clicking the button will guide applicants through submitting the necessary information and documents required for registration, based on the partnership agreement.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-name-check",
+				title: "Name Check",
+				description: "The Name Check section allows users to search for the availability of a company name. This section provides detailed information on the name search process and important guidelines.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form1",
+				title: "Company Details",
+				description: "This page collects all primary company information.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form2",
+				title: "Company Directors",
+				description: "This page collects information about the Directors of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form3",
+				title: "Particulars of Company Secretary",
+				description: "This page collects information about the Secretary of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form4",
+				title: "Details of Shares and Stated Capital",
+				description: "This page collects information about the shares of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form5",
+				title: "Subscribers",
+				description: "This page collects information about the Subscribers of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form6",
+				title: "Beneficial Owner (BO)",
+				description: "This page collects information about the Beneficial Owner(BO) of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form7",
+				title: "Attachment",
+				description: "This page collects  any additonal information in the form of documents about the compay",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form8",
+				title: "Review and Submit",
+				description: "The Review and Submit section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form9",
+				title: "Payment",
+				description: "This is the final process of registration. It allows users to make the necessary payment for the registration of a private company limited by shares. The payment process is secure and ensures that all fees are processed correctly.",
+				pageImage: null,
+			},
+		]
+	},
+	{
+		id: "public-Company-limited-by-Shares",
+		title: "Public Company limited by Shares",
+		description:
+			"A public company limited by shares is a body corporate formed without any restriction on the number of members per its constitution and its members liability is limited to the amount of unpaid shares.",
+		docs: [
+			{
+				id: "pub-company-limited-shares-start-application",
+				title: "Start Application",
+				description: "The Start application button allows users to begin the process of registering a partnership business. Clicking the button will guide applicants through submitting the necessary information and documents required for registration, based on the partnership agreement.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-name-check",
+				title: "Name Check",
+				description: "The Name Check section allows users to search for the availability of a company name. This section provides detailed information on the name search process and important guidelines.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form1",
+				title: "Company Details",
+				description: "This page collects all primary company information.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form2",
+				title: "Company Directors",
+				description: "This page collects information about the Directors of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form3",
+				title: "Particulars of Company Secretary",
+				description: "This page collects information about the Secretary of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form4",
+				title: "Details of Shares and Stated Capital",
+				description: "This page collects information about the shares of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form5",
+				title: "Subscribers",
+				description: "This page collects information about the Subscribers of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form6",
+				title: "Beneficial Owner (BO)",
+				description: "This page collects information about the Beneficial Owner(BO) of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form7",
+				title: "Attachment",
+				description: "This page collects  any additonal information in the form of documents about the compay",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form8",
+				title: "Review and Submit",
+				description: "The Review and Submit section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form9",
+				title: "Payment",
+				description: "This is the final process of registration. It allows users to make the necessary payment for the registration of a private company limited by shares. The payment process is secure and ensures that all fees are processed correctly.",
+				pageImage: null,
+			},
+		]
+	},
+	{
+		id: "public-Company-Unlimited-by-Shares",
+		title: "Public Company Unimited by Shares",
+		description:
+			"A public company unlimited by shares is a body corporate formed without any restriction on the number of members per its constitution and its liabilities are unlimited.",
+		docs: [
+			{
+				id: "pub-company-unlimited-shares-start-application",
+				title: "Start Application",
+				description: "The Start application button allows users to begin the process of registering a partnership business. Clicking the button will guide applicants through submitting the necessary information and documents required for registration, based on the partnership agreement.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-name-check",
+				title: "Name Check",
+				description: "The Name Check section allows users to search for the availability of a company name. This section provides detailed information on the name search process and important guidelines.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form1",
+				title: "Company Details",
+				description: "This page collects all primary company information.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form2",
+				title: "Company Directors",
+				description: "This page collects information about the Directors of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form3",
+				title: "Particulars of Company Secretary",
+				description: "This page collects information about the Secretary of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form4",
+				title: "Details of Shares and Stated Capital",
+				description: "This page collects information about the shares of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form5",
+				title: "Subscribers",
+				description: "This page collects information about the Subscribers of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form6",
+				title: "Beneficial Owner (BO)",
+				description: "This page collects information about the Beneficial Owner(BO) of the company",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form7",
+				title: "Attachment",
+				description: "This page collects  any additonal information in the form of documents about the compay",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form8",
+				title: "Review and Submit",
+				description: "The Review and Submit section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
+				pageImage: null,
+			},
+			{
+				id: "priv-company-limited-shares-registration-form9",
+				title: "Payment",
+				description: "This is the final process of registration. It allows users to make the necessary payment for the registration of a private company limited by shares. The payment process is secure and ensures that all fees are processed correctly.",
+				pageImage: null,
+			},
+		]
 	},
 	{
 		id: "private-company-limited-by-guarantee",
@@ -219,8 +514,7 @@ export const docs: DocGroup[] = [
 				title: "Review and Submit",
 				description: "The Review and Submit section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
 				pageImage: null,
-			},
-			
+			},	
 		]	
 	},
 	{
@@ -284,7 +578,100 @@ export const docs: DocGroup[] = [
 			}
 		]
 	},
+  {
+		id: "professional-bodies",
+		title: "Professional Bodies",
+		description:"Learn how to properly register a professional Body",
+		docs: [
+			{
+				id: "professional-bodies-application",
+				title: "Professional Bodies Application",
+				description:
+					"Learn the basics of our platform and how to begin your company registration journey. This guide covers initial requirements and provides an overview of the registration process.",
+				pageImage: null,
+			},
+			{
+				id: "registration-instruction-professional-bodies",
+				title: "Registration Instructions",
+				description:
+					"A step-by-step guide to help you complete your application process accurately and efficiently.",
+				pageImage: null,
+			},
+			{
+				id: "prerequisite-documents",
+				title: "Prerequisite Documents",
+				description:
+					"A list of all the necessary documents needed to complete your application.",
+				pageImage: null,
+			},
+			{
+				id: "service-type",
+				title: "Service Type",
+				description:
+					" where you can select a suitable payment option for your application processing.",
+				pageImage: null,
+			},
+			{
+				id: "name-availability",
+				title: "Name Availability",
+				description:
+					"The name availability page, where the system will check if the name you intend to use is unique, compliant, and available for registration.",
+				pageImage: null,
+			},
+			{
+				id: "registration-process",
+				title: "Registrarion Process",
+				description:
+					"Next, you will be directed to the Registration Forms page, where you will complete the official registration details required to submit your application.",
+				pageImage: null,
+			},
+			{
+				id: "professional-bodies-review",
+				title: "Review",
+				description:
+					"The next page allows you to review all the information you have provided before final submission.",
+				pageImage: null,
+			},
+			{
+				id: "professional-bodies-payment",
+				title: "Professional Bodies Payment",
+				description:
+					"The next page outlines the steps required to complete the payment process for the registering a professional body.",
+				pageImage: null,
+			},	
+		],
+	},
 	{
+		id: "external-company",
+		title: "External Company ",
+		description:
+			"This page provides an introduction to what an external company is, along with a brief video explanation, registration cost options, and a button to begin the application process.",
+		docs: [
+
+			{
+				id: "external-company-application",
+				title: "External Company",
+				description:
+					"This page provides an introduction to what an external company is, along with a brief video explanation, registration cost options",
+				pageImage: null,
+			},
+			{
+				id: "external-company-instructions",
+				title: "Instructions",
+				description:
+					"The next page outlines the step-by-step registration process and lists all the required documents needed to register an external company in Ghana.",
+				pageImage: null,
+			},
+			{
+				id: "external-company-form",
+				title: "External Company Registration",
+				description:
+					"The next page outlines the step-by-step process required to complete the registration of an external company, guiding you through each section of the application.",
+				pageImage: null,
+			},		
+		]			
+	},
+  {
 		id: "change-in-particulars",
 		title: "Change in Particulars",
 		description: "A user can make changes to the particulars of a registered entity.",
@@ -357,7 +744,7 @@ export const docs: DocGroup[] = [
 			}
 		]
 	},
-		{
+	{
 		id: "filing",
 		title: "Filing",
 		description:
@@ -432,5 +819,17 @@ export const docs: DocGroup[] = [
 			},
 		]
 	},
-];
-
+	{
+		id: "mergers",
+		title: "Mergers",
+		description: "This guide outlines the step-by-step process for initiating and completing a company merger through the ORC.GOV portal. It is intended for users authorized to manage corporate entity transitions, including mergers by absorption, formation, or short form.",
+		docs: [
+			{
+				id: "company-merger",
+				title: "Company Merger",
+				description: "The Start Merger Application section allows users to initiate the merger process for their company. This section provides a clear and straightforward way to begin the application, guiding users through the necessary steps to submit their merger request.",
+				pageImage: null,
+			}
+			]
+		}
+ ];
