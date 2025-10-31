@@ -253,13 +253,13 @@ export const docs: DocGroup[] = [
 				pageImage: null,
 			},
 			{
-				id: "priv-company-limited-shares-name-check",
+				id: "priv-company-unlimited-shares-name-check",
 				title: "Name Check",
 				description: "The Name Check section allows users to search for the availability of a company name. This section provides detailed information on the name search process and important guidelines.",
 				pageImage: null,
 			},
 			{
-				id: "priv-company-limited-shares-registration-form1",
+				id: "priv-company-unlimited-shares-registration-form1",
 				title: "Company Details",
 				description: "This page collects all primary company information.",
 				pageImage: null,
@@ -301,13 +301,13 @@ export const docs: DocGroup[] = [
 				pageImage: null,
 			},
 			{
-				id: "priv-company-limited-shares-registration-form8",
+				id: "priv-company-unlimited-shares-registration-form8",
 				title: "Review and Submit",
 				description: "The Review and Submit section provides applicants with a comprehensive form to fill out and submit for the registration of a private company limited by guarantee. This section includes all the necessary fields and instructions to ensure a smooth and accurate submission process.",
 				pageImage: null,
 			},
 			{
-				id: "priv-company-limited-shares-registration-form9",
+				id: "priv-company-unlimited-shares-registration-form9",
 				title: "Payment",
 				description: "This is the final process of registration. It allows users to make the necessary payment for the registration of a private company limited by shares. The payment process is secure and ensures that all fees are processed correctly.",
 				pageImage: null,
